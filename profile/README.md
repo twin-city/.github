@@ -5,9 +5,9 @@
 
 Nous avons construit un scénario en utilisant des données cadastrales, à l'emplacement du Parc Promenade Pereire à Paris, dans le but d'étudier les méthodes de détection des piétons. La méthode expérimentale et les résultats sont présentés dans le [code d'évaluation en python](https://github.com/twin-city/pedestrian-detection-sensitivity-analysis).
 
-Le [^projet Unreal](https://github.com/twin-city/unreal-project), ainsi que ses éléments 3D, peuvent être téléchargés ici (PROCHAINEMENT).
+Le [projet Unreal](https://github.com/twin-city/unreal-project), ainsi que ses éléments 3D, peuvent être téléchargés ici (PROCHAINEMENT).
 
-Ce travail fait partie du défi "Entrepreneurs d'Intérêt Général" d'Etalab (https://eig.etalab.gouv.fr/defis/twincity/).
+Ce travail fait partie du défi [Entrepreneurs d'Intérêt Général](https://eig.etalab.gouv.fr/defis/twincity/) d'Etalab .
 
 -------
 
